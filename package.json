@@ -1,0 +1,16 @@
+{
+  "name": "hm-1",
+  "version": "1.0.0",
+  "description": "homework-1",
+  "main": "list.js",
+  "scripts": {
+    "start_list": "node list.js",
+    "start_dir": "node dir.js --path='c:/Otus/' --depth=3",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
+}
